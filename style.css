@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: url(https://i.swncdn.com/media/800w/via/5793-istockgetty-images-pluspattadis-walarput.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.p2 {
+    text-align: center;
+    padding: 20;
+}
+
+img {
+    height: 400px;
+    width: 400px;
+}
+
+.alinear_flex {
+    display: flex;
+    justify-content: center;
+}
+
+.la_imagen {
+    display: flex;
+    justify-content: center;
+}
+
+div {
+    text-align: center;
+    padding: 20px;
+    color: black;
+}
+
+h3 {
+    text-align: center;
+    color: black;
+}
+
+a {
+    padding: 40px;
+    background-color: rgb(16, 93, 93);
+    color: rgb(251, 246, 247);
+    background: rgb(24, 18, 202);
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+}
